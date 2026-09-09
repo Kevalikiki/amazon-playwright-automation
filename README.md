@@ -43,6 +43,7 @@ npx playwright show-report
 Sample execution report
 ----------------------
 
+<img width="1916" height="966" alt="Screenshot 2026-09-09 162307" src="https://github.com/user-attachments/assets/31f41002-19bd-433b-a0c1-1b1c1fd2d8b9" />
 
 
 
