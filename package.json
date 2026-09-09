@@ -1,0 +1,16 @@
+{
+  "name": "amazon-tv-playwright",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript automation for searching and extracting Amazon TV product details",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.0.0"
+  }
+}
