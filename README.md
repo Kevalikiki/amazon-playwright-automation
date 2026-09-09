@@ -1,4 +1,4 @@
-<img width="1903" height="920" alt="Screenshot 2026-09-09 162218" src="https://github.com/user-attachments/assets/dc97870d-cb85-4e1d-8c85-9618a43c3925" />OracleTask - Playwright Automation
+Playwright Automation Task
 Description:
 ------------
 This project contains a Playwright automation test using TypeScript.
@@ -44,6 +44,7 @@ Sample execution report
 ----------------------
 
 <img width="1916" height="966" alt="Screenshot 2026-09-09 162307" src="https://github.com/user-attachments/assets/31f41002-19bd-433b-a0c1-1b1c1fd2d8b9" />
+<img width="1903" height="920" alt="Screenshot 2026-09-09 162218" src="https://github.com/user-attachments/assets/dc97870d-cb85-4e1d-8c85-9618a43c3925" />
 
 
 
